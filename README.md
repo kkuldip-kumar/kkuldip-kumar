@@ -60,7 +60,18 @@
 [![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![ChartJs](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
+## ♨ Trophies:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkuldip-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="kkuldip-kumar" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkuldip-kumar" alt="kkuldip-kumar" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+## ♨ Ranking:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkuldip-kumar&show_icons=true&locale=en&layout=compact" alt="kkuldip-kumar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkuldip-kumar&show_icons=true&locale=en" alt="kkuldip-kumar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkuldip-kumar&" alt="kkuldip-kumar" /></p>
 
 
