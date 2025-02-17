@@ -9,7 +9,7 @@
 <img src="./Assets/cover-image.jpeg" alt="Front End Developer Banner" />
 <br/>
 
-🔭 I’m currently working with **E-tech Services Pvt Ltd** as **Software Developer** 
+🔭 I’m currently working with **Indian Institute of Technology Kanpur** as **Software Development Engineer** 
 
 🏫 I’m currently learning **Micro Frontend and Microservice**
 
